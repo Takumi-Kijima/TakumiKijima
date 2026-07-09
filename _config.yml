@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: Takumi Kijima
 email: takumi.kijima.jp@rutgers.edu
 description: Academic webpage of Takumi Kijima
@@ -31,6 +31,7 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
+  - name: hobbies
 #  - name: publications
   
 include:
@@ -90,3 +91,4 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+
